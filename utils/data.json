@@ -1,0 +1,386 @@
+{
+    "guilds": {
+        "XFKBjUhDcSUAvnkLPeYF": {
+            "private": "TBX3zUvHyjjo5CLyV7GDJuL2wKfqJPKd1y1hmaT2UhL4x6otaLhi",
+            "addy": "LbxggrYrtsB5B9sxx3352mDY8jQSeHh5RQ",
+            "id": "XFKBjUhDcSUAvnkLPeYF",
+            "owner": 980721105629220874,
+            "reciev": 879973541339078698,
+            "amount": 0.00098
+        },
+        "ETNizYgaxDVIRRVENKTa": {
+            "private": "None",
+            "addy": "None",
+            "id": "ETNizYgaxDVIRRVENKTa",
+            "owner": 0,
+            "reciev": 1,
+            "amount": 0
+        },
+        "XLHiDSraUoOeOCWFwqCb": {
+            "private": "None",
+            "addy": "None",
+            "id": "XLHiDSraUoOeOCWFwqCb",
+            "owner": 0,
+            "reciev": 1,
+            "amount": 0
+        },
+        "PxPhQrkGPvpfHUoEVFId": {
+            "private": "None",
+            "addy": "None",
+            "id": "PxPhQrkGPvpfHUoEVFId",
+            "owner": 1191497549547319420,
+            "reciev": 1,
+            "amount": 0
+        },
+        "mCcFsTyIoaavlQUmhBOY": {
+            "private": "T88riLfG93qgAAvCBrKxMTwBCTwmR5Neftan47SsmTcEf2bQEo7M",
+            "addy": "LVsCmpXZSkbUteCqahFbCBToZcQRSwLFLn",
+            "id": "mCcFsTyIoaavlQUmhBOY",
+            "owner": 975795081305022535,
+            "reciev": 1191497549547319420,
+            "amount": 0.0010088
+        },
+        "QQAqPegSVRYmvAVLvCWJ": {
+            "private": "None",
+            "addy": "None",
+            "id": "QQAqPegSVRYmvAVLvCWJ",
+            "owner": 980721105629220874,
+            "reciev": 1,
+            "amount": 0
+        },
+        "SoKTAwEYsTBDHeIzDUra": {
+            "private": "T483715fVzrAvi4Xr7YsmRfGUgx4KEScfufEgzB7XaC6YdEe6Wxc",
+            "addy": "Le5jNjwAxffFZFXyrpuTRefEEKwwr8iho6",
+            "id": "SoKTAwEYsTBDHeIzDUra",
+            "owner": 965559332559261696,
+            "reciev": 1222170392890707968,
+            "amount": 0.0005121
+        },
+        "gzYbxKuPlRwebwajEDAq": {
+            "private": "T3c1GWiLJA3Km4sEFRfEqvoqLgrJi7AYfYQ5jvC44ckjQPXnFfbi",
+            "addy": "LfPw8LCxA5AH3MmfEkpjerXyM1eZMXX4PW",
+            "id": "gzYbxKuPlRwebwajEDAq",
+            "owner": 965559332559261696,
+            "reciev": 1162051621895803113,
+            "amount": 0.0006134
+        },
+        "Z0YOHKERBBOL1T6N9SIJMGFF4MHB9WL5R5GC": {
+            "private": "None",
+            "addy": "None",
+            "id": "Z0YOHKERBBOL1T6N9SIJMGFF4MHB9WL5R5GC",
+            "owner": 1180903973406908459,
+            "reciev": 1180903973406908459,
+            "amount": 0
+        },
+        "EO2XLXG6273VDM8UKOWK23J99PC8H3W5RBSD": {
+            "private": "None",
+            "addy": "None",
+            "id": "EO2XLXG6273VDM8UKOWK23J99PC8H3W5RBSD",
+            "owner": 879973541339078698,
+            "reciev": 879925738151747585,
+            "amount": 0
+        },
+        "QRACKNN0AWY6N8FTDU2WX1ND729TGTVPRUFQ": {
+            "private": "T9vyXjGkP8Jz4jvYaqt4usHVwPLrWUSUkwXY5hKdmSrtJngHSKir",
+            "addy": "LKjEqEFQiJhxRBEpNJ3dmgxmGtNX2nLBys",
+            "id": "QRACKNN0AWY6N8FTDU2WX1ND729TGTVPRUFQ",
+            "owner": 879925738151747585,
+            "reciev": 879973541339078698,
+            "amount": 0.0101327
+        },
+        "67ZO6QDPBVD289X81QKDBYOV82EZNFCMNBDQ": {
+            "private": "T8iopeWc9M8btCKFiDoiGfXSeZG1EBz2NDE4kd5EtaWrnVM8cub4",
+            "addy": "LNL3z2jCMyY8fCNzxT7fdhqKVwFY8D4qjN",
+            "id": "67ZO6QDPBVD289X81QKDBYOV82EZNFCMNBDQ",
+            "owner": 879973541339078698,
+            "reciev": 879925738151747585,
+            "amount": 0.0100898
+        },
+        "78DJU93Z9GVHBK27A7BUHTN0E8JXX4UEWOKT": {
+            "private": "None",
+            "addy": "None",
+            "id": "78DJU93Z9GVHBK27A7BUHTN0E8JXX4UEWOKT",
+            "owner": 0,
+            "reciev": 1,
+            "amount": 0
+        },
+        "SXOXF785IQ2LFVG1BMXNNESPX1R98IWX9P9F": {
+            "private": "T5f2EYkYW7dn99TbQs44MW84PaUw1ssmqwa3PGhrMY48R5ZVeBN3",
+            "addy": "LdeRVrPBSbpuTXq2fu3Vh33tHh2wnn34po",
+            "id": "SXOXF785IQ2LFVG1BMXNNESPX1R98IWX9P9F",
+            "owner": 980721105629220874,
+            "reciev": 879973541339078698,
+            "amount": 0.0010113
+        },
+        "WVRB17W334AJP0Y7Y8DMXMFM6JJ8WYAH00PJ": {
+            "private": "TAyLMPHH5jC8pTXUvUHthcgEc6NafmvnaQtym1EEXrUmM4KkeKWa",
+            "addy": "LKFTcaWLZyGkJv23cEGpEsnCtKKSAQjH15",
+            "id": "WVRB17W334AJP0Y7Y8DMXMFM6JJ8WYAH00PJ",
+            "owner": 980721105629220874,
+            "reciev": 879973541339078698,
+            "amount": 0.0005029
+        },
+        "E1S0E9V91S4J2YE6REKP3Q6U18VYM4K4T67D": {
+            "private": "T9gSvJCJiY8FxDH6kUA7ismDh7uxKJay44Xcrg6z49TYmPNjy5jL",
+            "addy": "LRT8EViUGnefh9fzmvCmAb5F6v3Qbn16TK",
+            "id": "E1S0E9V91S4J2YE6REKP3Q6U18VYM4K4T67D",
+            "owner": 980721105629220874,
+            "reciev": 879973541339078698,
+            "amount": 0.0010065
+        },
+        "PO6BLRHA3K5YUM291RFTEPMIO6L2U8JHATXS": {
+            "private": "T84v8c8RzD89fWG9dugmvkFTTjHAAwy6cCyPuttfqn3sMQRbWCPb",
+            "addy": "LdUg5DYg8RKLbuTRi7fNxPUjdtA46mnT4S",
+            "id": "PO6BLRHA3K5YUM291RFTEPMIO6L2U8JHATXS",
+            "owner": 980721105629220874,
+            "reciev": 965559332559261696,
+            "amount": 0.0009035
+        },
+        "5PS1GWVVA6KTAENMZAEBCLF3T2F39JOLP1LY": {
+            "private": "T9RxFuVRzRtYH6RSzz8XuysXVxxmLYR8mNSLEKHkU9c5DVjsQKWG",
+            "addy": "LcTGPsVbUqtx3ekFJvxMG1ABj59rzhziDH",
+            "id": "5PS1GWVVA6KTAENMZAEBCLF3T2F39JOLP1LY",
+            "owner": 1093326536993681518,
+            "reciev": 980721105629220874,
+            "amount": 0.0010072
+        },
+        "SDZ28FOUUTCF5L1GO4A5BKSSXUWCPDKF7ETA": {
+            "private": "None",
+            "addy": "None",
+            "id": "SDZ28FOUUTCF5L1GO4A5BKSSXUWCPDKF7ETA",
+            "owner": 0,
+            "reciev": 1,
+            "amount": 0
+        },
+        "XIRDWR1DLYHT4B04U15FWZZQ4BDWA2LR2PWA": {
+            "private": "T9WLpWQjdmbioPQuKgwMiJGjtcRETQjbqzFKAdBjkYB2uhoaJVGh",
+            "addy": "LKj6aHMcC4Sj1KXwQg3M9L42ZGJdYq4UWw",
+            "id": "XIRDWR1DLYHT4B04U15FWZZQ4BDWA2LR2PWA",
+            "owner": 980721105629220874,
+            "reciev": 1093326536993681518,
+            "amount": 0.0010145
+        },
+        "35RUK4QKSNX973J0T9V0R8LUV9T1PMEX13SJ": {
+            "private": "None",
+            "addy": "None",
+            "id": "35RUK4QKSNX973J0T9V0R8LUV9T1PMEX13SJ",
+            "owner": 0,
+            "reciev": 1,
+            "amount": 0
+        },
+        "TZODUFGPJ23XV9D3SD4OVJ2XIM61FF0Z4TAN": {
+            "private": "T7jE4GXd9MN971PFdH47nu38XhnGHD6DjjM2us3hdoH38rG2ppKh",
+            "addy": "Lg6uLR4uuFRX35qQopgeBJ7EnVxqPRCfSY",
+            "id": "TZODUFGPJ23XV9D3SD4OVJ2XIM61FF0Z4TAN",
+            "owner": 1226069085016559687,
+            "reciev": 980721105629220874,
+            "amount": 0.0010176
+        },
+        "W433IVCXWG1L6G06T6VQG7OWLM6AATKUN4LT": {
+            "private": "None",
+            "addy": "None",
+            "id": "W433IVCXWG1L6G06T6VQG7OWLM6AATKUN4LT",
+            "owner": 0,
+            "reciev": 1,
+            "amount": 0
+        },
+        "KYEIWC25HHL7RTZCJIWEF9IYDVV7KYBTSGFX": {
+            "private": "None",
+            "addy": "None",
+            "id": "KYEIWC25HHL7RTZCJIWEF9IYDVV7KYBTSGFX",
+            "owner": 1226079467479498874,
+            "reciev": 1093326536993681518,
+            "amount": 0.1275185
+        },
+        "9FDTDL3H8RP6LZJ4DA2LCW11VFOWDRBXQME7": {
+            "private": "None",
+            "addy": "None",
+            "id": "9FDTDL3H8RP6LZJ4DA2LCW11VFOWDRBXQME7",
+            "owner": 0,
+            "reciev": 1228028395611357275,
+            "amount": 0,
+            "conf1": 0,
+            "conf2": 0
+        },
+        "6KJ6JCC55350PP82NIAQZICNQVPE1VCGC9YP": {
+            "private": "None",
+            "addy": "None",
+            "id": "6KJ6JCC55350PP82NIAQZICNQVPE1VCGC9YP",
+            "owner": 0,
+            "reciev": 1228028395611357275,
+            "amount": 0,
+            "conf1": 0,
+            "conf2": 0
+        },
+        "OTAGIJ0MJ3Y3KWFKD79QC949ITJI9Z00INB6": {
+            "private": "T6ghL3JLem2kgTh5scJUHoJKNSneUKAqte9KtFtmFtctuPqJXbC8",
+            "addy": "LUgixvknVHPjNeaPpCBoJ4carTFZFE4pRm",
+            "id": "OTAGIJ0MJ3Y3KWFKD79QC949ITJI9Z00INB6",
+            "owner": 1140960598688018493,
+            "reciev": 1245952764086059061,
+            "amount": 0.0305671,
+            "conf1": 2,
+            "conf2": 2
+        },
+        "U4FENDPL1P7DLNIREMN4MG3ZAGA1RD90WBI5": {
+            "private": "T5c1jsqjR3HZnknLkCDn5MNS1KZWXiD8u9sZSaAjhPfMMT2Q5WHU",
+            "addy": "LZfyxGEAnb2uHAJEMRoWakf7wSrYUbj7LM",
+            "id": "U4FENDPL1P7DLNIREMN4MG3ZAGA1RD90WBI5",
+            "owner": 1140960598688018493,
+            "reciev": 768256774280708136,
+            "amount": 0.0107354,
+            "conf1": 2,
+            "conf2": 2
+        },
+        "N3MPADY51XF9EY5QKGQOQ3XOYP3A5T357C0K": {
+            "private": "None",
+            "addy": "None",
+            "id": "N3MPADY51XF9EY5QKGQOQ3XOYP3A5T357C0K",
+            "owner": 0,
+            "reciev": 1,
+            "amount": 0,
+            "conf1": 0,
+            "conf2": 0
+        },
+        "VQIYLB4JJ4Q6H0RS9NCY5LUG777ZBXIQWIXO": {
+            "private": "None",
+            "addy": "None",
+            "id": "VQIYLB4JJ4Q6H0RS9NCY5LUG777ZBXIQWIXO",
+            "owner": 0,
+            "reciev": 1256140197402513561,
+            "amount": 0,
+            "conf1": 0,
+            "conf2": 0
+        },
+        "FK2O2YRIFTZ5FL9Y009D3KPSRYGTG3PUSGYS": {
+            "private": "None",
+            "addy": "None",
+            "id": "FK2O2YRIFTZ5FL9Y009D3KPSRYGTG3PUSGYS",
+            "owner": 1233984189330751571,
+            "reciev": 1253697704081494138,
+            "amount": 0.000773,
+            "conf1": 2,
+            "conf2": 2
+        },
+        "VBUHXFSAZUZB44WL6K7QPDS6ASNSPRRN9G8R": {
+            "private": "None",
+            "addy": "None",
+            "id": "VBUHXFSAZUZB44WL6K7QPDS6ASNSPRRN9G8R",
+            "owner": 1233984189330751571,
+            "reciev": 1253697704081494138,
+            "amount": 0.000772,
+            "conf1": 2,
+            "conf2": 2
+        },
+        "NN7IIZOYITF7ERSO9YVIBTBCA8DNV8R88YE6": {
+            "private": "None",
+            "addy": "None",
+            "id": "NN7IIZOYITF7ERSO9YVIBTBCA8DNV8R88YE6",
+            "owner": 1253697704081494138,
+            "reciev": 1233984189330751571,
+            "amount": 0.000773,
+            "conf1": 2,
+            "conf2": 2
+        },
+        "5OEMN1Q72HTUDE97GIX1N1QO8NTFUZLLGNZU": {
+            "private": "None",
+            "addy": "None",
+            "id": "5OEMN1Q72HTUDE97GIX1N1QO8NTFUZLLGNZU",
+            "owner": 1233984189330751571,
+            "reciev": 1075145432692424794,
+            "amount": 0.001543,
+            "conf1": 2,
+            "conf2": 2
+        },
+        "EIGAF2HOSMOEUDZIYQ4ENEV324DUO7I4H43A": {
+            "private": "None",
+            "addy": "None",
+            "id": "EIGAF2HOSMOEUDZIYQ4ENEV324DUO7I4H43A",
+            "owner": 1075145432692424794,
+            "reciev": 1233984189330751571,
+            "amount": 0.001543,
+            "conf1": 2,
+            "conf2": 2
+        },
+        "PTJQZNOV99QF2N9RAOMDLDASJMNJXQEX96LG": {
+            "private": "None",
+            "addy": "None",
+            "id": "PTJQZNOV99QF2N9RAOMDLDASJMNJXQEX96LG",
+            "owner": 0,
+            "reciev": 1,
+            "amount": 0,
+            "conf1": 0,
+            "conf2": 0
+        },
+        "KAUHF1TDTX7BLYY66IBVETRAXR2HRO5W8GB6": {
+            "private": "None",
+            "addy": "None",
+            "id": "KAUHF1TDTX7BLYY66IBVETRAXR2HRO5W8GB6",
+            "owner": 1253697704081494138,
+            "reciev": 1233984189330751571,
+            "amount": 0.0015408,
+            "conf1": 2,
+            "conf2": 2
+        },
+        "A3NAAE4Q4U9MGNVPAR9GLWCB8Q56MBVM8AQR": {
+            "private": "None",
+            "addy": "None",
+            "id": "A3NAAE4Q4U9MGNVPAR9GLWCB8Q56MBVM8AQR",
+            "owner": 1253697704081494138,
+            "reciev": 1233984189330751571,
+            "amount": 0.0015482,
+            "conf1": 2,
+            "conf2": 2
+        },
+        "T5DELEH9QQ8MDI44WN6V72ROOAGEW0MMR1YH": {
+            "private": "None",
+            "addy": "None",
+            "id": "T5DELEH9QQ8MDI44WN6V72ROOAGEW0MMR1YH",
+            "owner": 0,
+            "reciev": 1,
+            "amount": 0,
+            "conf1": 0,
+            "conf2": 0
+        },
+        "3YHU5QU478C3R2KBD9ID7I6PJB64MDANL5NC": {
+            "private": "None",
+            "addy": "None",
+            "id": "3YHU5QU478C3R2KBD9ID7I6PJB64MDANL5NC",
+            "owner": 1233984189330751571,
+            "reciev": 1237299088546988083,
+            "amount": 0.0078542,
+            "conf1": 2,
+            "conf2": 2
+        },
+        "IZFO4U6HFE1PFAPGNPJXXI0YJBAM5QWWI3FB": {
+            "private": "None",
+            "addy": "None",
+            "id": "IZFO4U6HFE1PFAPGNPJXXI0YJBAM5QWWI3FB",
+            "owner": 1233984189330751571,
+            "reciev": 1253697704081494138,
+            "amount": 0.0023504,
+            "conf1": 2,
+            "conf2": 2
+        },
+        "ZG1QBE8WWSFPCR2KT8K70YBSKKWZYG5EHGW2": {
+            "private": "None",
+            "addy": "None",
+            "id": "ZG1QBE8WWSFPCR2KT8K70YBSKKWZYG5EHGW2",
+            "owner": 1233984189330751571,
+            "reciev": 1253697704081494138,
+            "amount": 0.0156446,
+            "conf1": 2,
+            "conf2": 2
+        },
+        "L13M0VX9FTP1M6424G900B6R1O8LZ6B2TI8Q": {
+            "private": "None",
+            "addy": "None",
+            "id": "L13M0VX9FTP1M6424G900B6R1O8LZ6B2TI8Q",
+            "owner": 0,
+            "reciev": 1,
+            "amount": 0,
+            "conf1": 0,
+            "conf2": 0
+        }
+    }
+}
